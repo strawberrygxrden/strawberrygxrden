@@ -11,5 +11,5 @@
 
 <div align="center">
 
-[<img src="https://i.postimg.cc/7LyBQQT8/obraz-2026-05-09-220427601.png">](https://1tzren.straw.page)[<img src="https://i.postimg.cc/c4r5K3S0/obraz-2026-05-09-220406853.png">](https://1tzren.straw.page)[<img src="https://i.postimg.cc/nrLSGj9B/obraz-2026-05-09-220346089.png">](https://1tzren.straw.page)
+[<img src="https://i.postimg.cc/DZhw0F4h/obraz-2026-05-09-221516045.png" width="250">](https://1tzren.straw.page)[<img src="https://i.postimg.cc/Pf25XgtQ/obraz-2026-05-09-221535102.png" width="250">](https://1tzren.straw.page)[<img src="https://i.postimg.cc/tCcRPFnY/obraz-2026-05-09-221558345.png" width="250">](https://1tzren.straw.page)
 </div>
