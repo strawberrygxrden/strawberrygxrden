@@ -1,3 +1,10 @@
+# I post a lot on tiktok abt them ^O^
+
+<div align="center">
+  
+[<img src="https://i.postimg.cc/PxS2wDKz/obraz-2026-05-10-213514016.png" width="350">](https://www.tiktok.com/@1tzren)
+</div>
+
 <p align="center">
 > "You are real. You are special. Remember who you are."
 </p>
