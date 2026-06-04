@@ -28,7 +28,5 @@
     <img width="500" src="https://i.postimg.cc/CK3Ng9K2/obraz-2026-05-20-225450920.png">
 </p>
 
+[ScreenRecording_06-04-2026 13-27-44_1 (1).mp3](https://github.com/user-attachments/files/28595957/ScreenRecording_06-04-2026.13-27-44_1.1.mp3)
 
-<video src="https://s139-isny.freeconvert.com/task/6a217378dd6d9afae2583a34/ScreenRecording_06-04-2026%2013-27-44_1%20(1).mp3">
-
-</video>
