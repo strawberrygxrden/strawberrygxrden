@@ -27,3 +27,6 @@
 <p align="center">
     <img width="500" src="https://i.postimg.cc/CK3Ng9K2/obraz-2026-05-20-225450920.png">
 </p>
+
+
+<video src="https://www.tiktok.com/@1tzren/video/7646585268010503456?is_from_webapp=1&sender_device=pc">
