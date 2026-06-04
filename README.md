@@ -9,14 +9,6 @@
 > "You are real. You are special. Remember who you are."
 </p>
 
-
-<p align="center">
-    <img width="500" src="https://www.tiktok.com/@1tzren/video/7646585268010503456?is_from_webapp=1&sender_device=pc">
-</p>
-
-
-
-
 # Main oc - Ren Sai!
 
 <p align="center">
