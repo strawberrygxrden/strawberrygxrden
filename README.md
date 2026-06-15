@@ -29,4 +29,4 @@
 </p>
 
 
-<p align="center"> <a href=""> <img src=""ScreenRecording_06-04-2026 13-27-44_1 (2).mp4 ·  width="600"> </a> </p>
+<p align="center"> <a href="ScreenRecording_06-04-2026 13-27-44_1 (2).mp4"> <img src="https://via.placeholder.com/600x338?text=WATCH+VIDEO" width="600"> </a> </p>
