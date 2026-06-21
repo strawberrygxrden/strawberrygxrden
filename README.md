@@ -13,13 +13,7 @@
 # Main oc - Ren Sai!
 
 <p align="center">
-    <img width="500" src="https://i.postimg.cc/FRSTkNqK/obraz-2026-05-20-225342481.png">
-</p>
-
-# Creepe - Minecraft oc!
-
-<p align="center">
-    <img width="500" src="https://i.postimg.cc/nhVSS8jt/obraz-2026-05-20-225307129.png">
+    <img width="500" src="https://postimg.cc/H8bGGBfw">
 </p>
 
 # Anatole Val - Florist and Pastry chef - Fontainian Cryo user
