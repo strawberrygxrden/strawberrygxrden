@@ -13,7 +13,7 @@
 # Main oc - Ren Sai!
 
 <p align="center">
-    <img width="500" src="https://postimg.cc/H8bGGBfw">
+    <img width="500" src="https://i.postimg.cc/T14TDs04/obraz-2026-06-21-151512656.png">
 </p>
 
 # Anatole Val - Florist and Pastry chef - Fontainian Cryo user
